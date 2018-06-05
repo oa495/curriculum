@@ -20,6 +20,8 @@
 - [Last Words](http://tinysubversions.com/stuff/lastwords/)
 - [remember their name](http://remembertheir.name/)
 - [Narrow the Gap](https://narrow-the-gap.glitch.me/)
+- [chicago's million dollar blocks](https://chicagosmilliondollarblocks.com/)
+- [mapping inequality](https://dsl.richmond.edu/panorama/redlining/#loc=4/36.71/-96.93&opacity=0.8)
 
 # music
 - [Migos Ad Libs](http://www.migosadlibs.com/)
